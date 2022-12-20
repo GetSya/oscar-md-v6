@@ -14,38 +14,38 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285850539404'] //ur owner number
-global.ownername = "Jarot Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: Jarot offc" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
-global.location = "Jatim" //ur location
+global.vcardowner = ['6281319944917'] //ur owner number
+global.ownername = "Arasya Rafi" //ur owner name
+global.developer = "Sya" //nama lu
+global.ytname = "JOJO CHANNEL" //ur yt chanel name
+global.socialm = "https://instagram.com/arsrfii" //ur github or insta name
+global.sgc = "https://chat.whatsapp.com/Famd1qzPzScBX4TSual41k"
+global.location = "Asia/Jakarta" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
-global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
-global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
-global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
+global.owner = ['6281319944917'] //ur number
+global.ownernomer = "6281319944917" //ur number
+global.ownertag = '6281319944917' //ur tag number
+global.premium = ['6281319944917'] //ur premium number
+global.botname = 'JOJO - BOT' //ur bot name
+global.ownername = "Sya"
+global.linkz = "-" //your theme url which will be displayed on whatsapp
+global.dana = "6281319944917"
+global.pulsa = "-"
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Oscar Bot" //ur sticker watermark author
-global.wm = "Jarot ofc" //ur watermark
+global.packname = "My Sticker" //ur sticker watermark packname
+global.author = "Sticker Saya" //ur sticker watermark author
+global.wm = "Sya" //ur watermark
 
 // Other
-global.sessionName = 'Session'
+global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'Done✓',
+    success: 'SUKSES :>',
     admin: '𝘏𝘢𝘯𝘺𝘢 𝘉𝘪𝘴𝘢 𝘥𝘪 𝘎𝘶𝘯𝘢𝘬𝘢𝘯 𝘖𝘭𝘦𝘩 𝘈𝘥𝘮𝘪𝘯 𝘛𝘰𝘥!!',
     botAdmin: '𝘉𝘰𝘵 𝘉𝘶𝘬𝘢𝘯 𝘈𝘥𝘮𝘪𝘯 𝘤𝘰𝘬',
     premime: '𝘏𝘢𝘯𝘺𝘢 𝘉𝘪𝘴𝘢 𝘥𝘪 𝘎𝘶𝘯𝘢𝘬𝘢𝘯 𝘜𝘴𝘦𝘳 𝘗𝘳𝘦𝘮𝘪𝘶𝘮!',
